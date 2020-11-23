@@ -1,2 +1,2 @@
-# Jenkins file . ,
+# Jenkins file
 ## Testing
